@@ -24,6 +24,7 @@ h1 {
 	line-height: .6em;
 	margin: .2em .2em .5em 0;
 	text-shadow: 3px 3px 4px #113;
+	text-rendering: optimizeLegibility;
 	}
 span {
 	color: #CCF;
